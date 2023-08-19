@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zfQQWcT6VWCkX7mq77ZV71sdiNnevAlzawQQWp89nJplZ/cEHPchnbgHKrAPi/0oH/g+QpX4zZkb8QM6qVP1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adriaan\\source\\repos\\AdvancedCSharpFeatures\\AdvancedCSharpFeatures\\AdvancedCSharpFeatures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adriaan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Adriaan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Adriaan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Adriaan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

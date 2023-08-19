@@ -1,0 +1,15 @@
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\bin\Debug\net6.0\AdvancedCSharpFeatures.exe
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\bin\Debug\net6.0\AdvancedCSharpFeatures.deps.json
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\bin\Debug\net6.0\AdvancedCSharpFeatures.runtimeconfig.json
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\bin\Debug\net6.0\AdvancedCSharpFeatures.dll
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\bin\Debug\net6.0\AdvancedCSharpFeatures.pdb
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\obj\Debug\net6.0\AdvancedCSharpFeatures.csproj.AssemblyReference.cache
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\obj\Debug\net6.0\AdvancedCSharpFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\obj\Debug\net6.0\AdvancedCSharpFeatures.AssemblyInfoInputs.cache
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\obj\Debug\net6.0\AdvancedCSharpFeatures.AssemblyInfo.cs
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\obj\Debug\net6.0\AdvancedCSharpFeatures.csproj.CoreCompileInputs.cache
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\obj\Debug\net6.0\AdvancedCSharpFeatures.dll
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\obj\Debug\net6.0\refint\AdvancedCSharpFeatures.dll
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\obj\Debug\net6.0\AdvancedCSharpFeatures.pdb
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\obj\Debug\net6.0\AdvancedCSharpFeatures.genruntimeconfig.cache
+C:\Users\Adriaan\source\repos\AdvancedCSharpFeatures\AdvancedCSharpFeatures\obj\Debug\net6.0\ref\AdvancedCSharpFeatures.dll
